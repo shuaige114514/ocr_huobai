@@ -1,0 +1,2 @@
+# ocr_huobai
+ocr_huobai自制ocr插件 自己写的ocr插件，可以提取所有的POST响应包的内容并返回，可以同时使用多个替换关键词
